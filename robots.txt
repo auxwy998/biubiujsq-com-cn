@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biubiujsq.com.cn/sitemap.xml
