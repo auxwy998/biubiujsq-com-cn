@@ -1,0 +1,82 @@
+[
+  {
+    "id": "article-pallas-engine",
+    "title": "帕拉斯引擎3.0技术解析：biubiu加速器如何实现超低延迟",
+    "description": "深入解析帕拉斯引擎3.0的核心架构与Biubiu-X传输协议，从帧级同步到智能调度，揭秘延迟降至22ms背后的技术原理。",
+    "date": "2025-06-28",
+    "category": "技术解析",
+    "url": "/article-pallas-engine.html"
+  },
+  {
+    "id": "article-ai-routing",
+    "title": "AI智能选路算法：biubiu加速器如何自动匹配最优线路",
+    "description": "详解biubiu加速器AI智能选路算法的工作原理，从实时测速到多维度评估，看AI如何为你找到延迟最低的最优加速线路。",
+    "date": "2025-06-25",
+    "category": "技术解析",
+    "url": "/article-ai-routing.html"
+  },
+  {
+    "id": "article-game-compatibility",
+    "title": "20000+游戏兼容：biubiu加速器全量支持清单解析",
+    "description": "从3A大作到独立游戏，biubiu加速器如何实现对20000+款游戏的全面兼容？深度解析游戏适配流程与平台覆盖策略。",
+    "date": "2025-06-22",
+    "category": "深度解析",
+    "url": "/article-game-compatibility.html"
+  },
+  {
+    "id": "article-weak-network",
+    "title": "弱网对抗技术：地铁电梯里如何保持游戏不掉线",
+    "description": "从地铁通勤到电梯信号盲区，biubiu加速器弱网对抗技术如何在极端网络环境下维持游戏连接稳定性？技术方案与实测数据全公开。",
+    "date": "2025-06-19",
+    "category": "技术解析",
+    "url": "/article-weak-network.html"
+  },
+  {
+    "id": "article-multi-path",
+    "title": "多路并发传输：biubiu加速器如何将丢包率降到0.1%",
+    "description": "解析biubiu加速器多路并发传输技术，双通道冗余如何实现0.1%超低丢包率，告别游戏卡顿与掉线，实测数据对比分析。",
+    "date": "2025-06-16",
+    "category": "技术解析",
+    "url": "/article-multi-path.html"
+  },
+  {
+    "id": "article-free-mobile",
+    "title": "手游永久免费加速：biubiu加速器零门槛畅玩指南",
+    "description": "biubiu加速器手游永久免费加速政策全解读，哪些手游可以免费加速？免费和付费有什么区别？一篇文章讲清楚。",
+    "date": "2025-06-13",
+    "category": "使用指南",
+    "url": "/article-free-mobile.html"
+  },
+  {
+    "id": "article-console-support",
+    "title": "主机加速实测：PS5/Xbox/Switch全平台体验报告",
+    "description": "biubiu加速器PS5/Xbox/Switch主机加速全平台实测，从设置教程到延迟数据，真实体验报告帮你判断值不值得用。",
+    "date": "2025-06-10",
+    "category": "深度解析",
+    "url": "/article-console-support.html"
+  },
+  {
+    "id": "article-encryption",
+    "title": "银行级AES-256加密：biubiu加速器如何保护账号安全",
+    "description": "详解biubiu加速器AES-256加密机制与IP漂移防护技术，你的游戏账号和隐私数据如何被全方位保护？安全架构深度剖析。",
+    "date": "2025-06-07",
+    "category": "技术解析",
+    "url": "/article-encryption.html"
+  },
+  {
+    "id": "article-global-nodes",
+    "title": "全球节点布局：biubiu加速器基础设施版图全解析",
+    "description": "从东京到洛杉矶，从新加坡到法兰克福，biubiu加速器全球300+节点的布局策略与基础设施全景分析。",
+    "date": "2025-06-04",
+    "category": "深度解析",
+    "url": "/article-global-nodes.html"
+  },
+  {
+    "id": "article-newbie-guide",
+    "title": "新手必读：biubiu加速器从下载到加速完整教程",
+    "description": "零基础也能看懂的biubiu加速器使用教程，从下载安装到一键加速，手把手教你告别游戏延迟和卡顿。",
+    "date": "2025-06-01",
+    "category": "使用指南",
+    "url": "/article-newbie-guide.html"
+  }
+]
